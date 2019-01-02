@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aProgressBar_Test", "aProgressBar_Test\aProgressBar_Test.csproj", "{94404F32-1825-4EAB-88C2-F7AE9D2A21B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aProgressBar", "aProgressBar\aProgressBar.csproj", "{3DB39C6D-0149-4690-9DEC-8232AF42F731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94404F32-1825-4EAB-88C2-F7AE9D2A21B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94404F32-1825-4EAB-88C2-F7AE9D2A21B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94404F32-1825-4EAB-88C2-F7AE9D2A21B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94404F32-1825-4EAB-88C2-F7AE9D2A21B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB39C6D-0149-4690-9DEC-8232AF42F731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB39C6D-0149-4690-9DEC-8232AF42F731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB39C6D-0149-4690-9DEC-8232AF42F731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB39C6D-0149-4690-9DEC-8232AF42F731}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCAF3CEB-73F7-404B-B717-4AC72DA63B6F}
+	EndGlobalSection
+EndGlobal
